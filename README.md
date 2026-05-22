@@ -1,5 +1,8 @@
 # 🚀 AISDC 2026 GitHub Copilot Workshop
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/112698e1-2940-4183-acf5-9972ae1ff043" />
+
+
 > **Your AI-powered coding companion — from setup to shipping.**
 
 Welcome to the **2026 GitHub Copilot Program**! This guide walks you through everything you need to get started with GitHub Copilot, activate your Azure for Students benefits, and begin building with Microsoft's AI-powered developer tools.
