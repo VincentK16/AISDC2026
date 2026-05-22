@@ -1,4 +1,4 @@
-# 🚀 Vincent's 2026 GitHub Copilot Program
+# 🚀 AISDC 2026 GitHub Copilot Workshop
 
 > **Your AI-powered coding companion — from setup to shipping.**
 
